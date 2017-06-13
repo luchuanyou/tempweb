@@ -5,4 +5,8 @@ public class PayController {
     public static void main(String[] args) {
 
     }
+    
+    public void test(){
+    
+    }
 }
