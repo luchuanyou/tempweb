@@ -7,6 +7,7 @@ public class PayController {
     }
     
     public void test(){
-    
+
+        System.out.println("PayController.test");
     }
 }
