@@ -10,4 +10,8 @@ public class PayController {
 
         System.out.println("PayController.test");
     }
+    
+    public void lcy(){
+        System.out.println("lcy");
+    }
 }
