@@ -14,4 +14,12 @@ public class PayController {
     public void master(){
         System.out.println("master");
     }
+
+    public void lcy(){
+        System.out.println("lcy");
+    }
+
+    public void test02(){
+        System.out.println("PayController.test02");
+    }
 }
