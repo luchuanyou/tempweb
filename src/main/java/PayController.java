@@ -22,4 +22,6 @@ public class PayController {
     public void test02(){
         System.out.println("PayController.test02");
     }
+
+    private static final int NUM = 743;
 }
