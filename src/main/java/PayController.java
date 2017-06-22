@@ -14,6 +14,13 @@ public class PayController {
     public void master(){
         System.out.println("master");
     }
+    
+    public void test02(){
+        System.out.println("PayController.test02");
+    }
+
+    private static final int ADD = 74;
+    private static final int NUM = 743;
 
     public void lcy(){
         System.out.println("lcy");
