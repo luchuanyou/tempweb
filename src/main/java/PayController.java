@@ -10,6 +10,10 @@ public class PayController {
 
         System.out.println("PayController.test");
     }
+
+    public void hello(){
+        System.out.println("hello");
+    }
     
     public void test02(){
         System.out.println("PayController.test02");
